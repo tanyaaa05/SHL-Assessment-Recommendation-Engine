@@ -29,7 +29,7 @@ A smart and intuitive web-based recommendation engine designed to match users wi
 
 ## 📸 Screenshots
 
-> Add screenshots of your app here if available (UI, recommendation result, mobile view, etc.)
+> ![Screenshot 2025-05-04 094814](https://github.com/user-attachments/assets/728e5beb-320c-4911-8bba-04bae3a07513)
 
 ---
 
