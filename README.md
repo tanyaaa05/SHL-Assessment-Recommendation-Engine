@@ -29,7 +29,10 @@ A smart and intuitive web-based recommendation engine designed to match users wi
 
 ## 📸 Screenshots
 
-> ![Screenshot 2025-05-04 094814](https://github.com/user-attachments/assets/728e5beb-320c-4911-8bba-04bae3a07513)
+> ![Screenshot 2025-05-05 134122](https://github.com/user-attachments/assets/f6557962-cbde-4ea6-82d0-3f99f79668a7)
+> ![Screenshot 2025-05-05 134152](https://github.com/user-attachments/assets/3aa96994-bbc0-4ed9-a439-547b693af280)
+
+
 
 ---
 
