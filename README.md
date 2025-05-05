@@ -58,7 +58,7 @@ Please make sure your code adheres to the existing style and standards.
 
 🙋‍♀️ About Me <br/>
 Made with ❤️ by Tanya <br/>
-Let's connect on LinkedIn!
+Let's connect on [LinkedIn!](https://www.linkedin.com/in/tanya06395/)
 
 
 
