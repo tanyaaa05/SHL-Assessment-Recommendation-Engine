@@ -47,6 +47,8 @@ To run the project locally, follow these steps:
 3. Open the index.html file in your browser
    (No build tools required – it’s a pure frontend project!)
 
+---
+
 🤝 Contributing <br/>
 Contributions are welcome! Feel free to fork the repo, create a branch, and submit a pull request.
 Please make sure your code adheres to the existing style and standards.
